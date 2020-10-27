@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1598908005 source:c:\users\on\documents\projetos\uga\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1599776504 source:c:\users\on\documents\projetos\qst3\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<math.h>
+

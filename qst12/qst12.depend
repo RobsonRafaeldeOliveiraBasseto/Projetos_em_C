@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1599598873 source:c:\users\on\documents\projetos\qst12\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+
